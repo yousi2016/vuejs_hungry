@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # sell
 
 > sell app
@@ -25,3 +26,7 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# vuejs_hungry
+外卖app
+>>>>>>> 095d9e81a715e54b8b8ad23d42908b9cf3d98c74
